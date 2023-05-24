@@ -217,23 +217,23 @@ nav ul li a {
 
   0%,
   20% {
-    background-image: url(/Image/Banner\ 1.webp);
+    background-image: url(./Image/Banner\ 1.webp);
   }
 
   20%,
   45% {
-    background-image: url(/Image/Pokedex\ wallpaper.jpg);
+    background-image: url(./Image/Pokedex\ wallpaper.jpg);
   }
 
   50%,
   70% {
-    background-image: url(/Image/banner\ 3.jpg);
+    background-image: url(./Image/banner\ 3.jpg);
 
   }
 
   75%,
   100% {
-    background-image: url(/Image/banner\ 4.jpg);
+    background-image: url(./Image/banner\ 4.jpg);
   }
 
 }
